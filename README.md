@@ -8,8 +8,20 @@
 
 ## Things Ive Made
 nothing rn lmao
+
 ## Powercord Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Dark-Discord&theme=material-palenight)](https://github.com/Snapperito/Dark-Discord)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=RemindMe&theme=material-palenight)](https://github.com/Snapperito/RemindMe)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Settings-Icons&theme=material-palenight)](https://github.com/Snapperito/Settings-Icons)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=CSS-Snippets&theme=material-palenight)](https://github.com/Snapperito/CSS-Snippets)
+<a href="https://github.com/Snapperito/Dark-Discord">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Dark-Discord&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Snapperito/Settings-Icons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Settings-Icons&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Snapperito/CSS-Snippets">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=CSS-Snippets&theme=material-palenight" />
+</a>
+
+<a href="https://github.com/Snapperito/RemindMe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=RemindMe&theme=material-palenight" />
+</a>
