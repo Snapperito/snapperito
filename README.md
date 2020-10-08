@@ -8,7 +8,7 @@
 
 </p>
 <p align="center">
-  <img align="center" src="https://gt.bigdumb.gq/api/badge/431883840483491850?color1=292D3D&color2=292D3D&textcolor=AD82CC&font=Arial" alt="My discord status">
+  <img align="center" src="https://gt.bigdumb.gq/api/badge/431883840483491850?color1=292D3D&textcolor=AD82CC&font=Arial&gradient=false" alt="My discord status">
 
 ## Things Ive Made
 nothing rn lmao
