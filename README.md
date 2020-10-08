@@ -13,5 +13,4 @@ nothing rn lmao
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Settings-Icons&theme=material-palenight)](https://github.com/Snapperito/Settings-Icons)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=CSS-Snippets&theme=material-palenight)](https://github.com/Snapperito/CSS-Snippets)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=RemindMe&theme=material-palenight)](https://github.com/Snapperito/RemindMe)
-
-https://gt.bigdumb.gq/api/badge/431883840483491850/
+[![ My Discord status](https://gt.bigdumb.gq/api/badge/431883840483491850?color1=000000&color2=ffffff&textcolor=ffffff&font=Arial)](#application-main)
