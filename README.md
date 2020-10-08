@@ -4,7 +4,11 @@
 
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snapperito&theme=material-palenight" alt="Snappeitos Language Usage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snapperito&theme=material-palenight&layout=compact" alt="Snappeitos Language Usage">
+
+</p>
+<p align="center">
+  <img align="center" src="https://gt.bigdumb.gq/api/badge/431883840483491850?color1=292D3D&color2=292D3D&textcolor=AD82CC&font=Arial" alt="My discord status">
 
 ## Things Ive Made
 nothing rn lmao
@@ -13,4 +17,3 @@ nothing rn lmao
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Settings-Icons&theme=material-palenight)](https://github.com/Snapperito/Settings-Icons)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=CSS-Snippets&theme=material-palenight)](https://github.com/Snapperito/CSS-Snippets)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=RemindMe&theme=material-palenight)](https://github.com/Snapperito/RemindMe)
-[![ My Discord status](https://gt.bigdumb.gq/api/badge/431883840483491850?color1=000000&color2=ffffff&textcolor=ffffff&font=Arial)](#application-main)
