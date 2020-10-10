@@ -16,4 +16,3 @@ nothing rn lmao
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Dark-Discord&theme=material-palenight)](https://github.com/Snapperito/Dark-Discord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Settings-Icons&theme=material-palenight)](https://github.com/Snapperito/Settings-Icons)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=CSS-Snippets&theme=material-palenight)](https://github.com/Snapperito/CSS-Snippets)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=RemindMe&theme=material-palenight)](https://github.com/Snapperito/RemindMe)
