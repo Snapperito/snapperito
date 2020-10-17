@@ -11,8 +11,6 @@
   <img align="center" src="https://gt.bigdumb.gq/api/badge/431883840483491850?color1=292D3D&textcolor=C692E7&font=Arial&gradient=false&borderradius=15&bordercolor=ffffff&borderwidth=3" alt="My discord status">
 
 ## Things Ive Made
-nothing rn lmao
-## Powercord Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Dark-Discord&theme=material-palenight)](https://github.com/Snapperito/Dark-Discord)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=Settings-Icons&theme=material-palenight)](https://github.com/Snapperito/Settings-Icons)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=snapperito&repo=CSS-Snippets&theme=material-palenight)](https://github.com/Snapperito/CSS-Snippets)
